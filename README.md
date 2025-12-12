@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/kayla-gil-64a0b1390/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kayla an <a href="https://linkedin.com/in/kayla-gil-64a0b1390/">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
